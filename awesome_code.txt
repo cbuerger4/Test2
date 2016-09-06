@@ -1,4 +1,5 @@
 instructors=["Andrea"]
+# This would have been faster to type out.
 for i in instructors:
 	if i == "Andrea"
 		instructors +=["Kyle"]

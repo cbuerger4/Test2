@@ -1,0 +1,9 @@
+This is a really boring silly theoretical exercise.
+instructors=["Homer"]
+# This would have been faster to type out.
+for i in instructors:
+	if i == "Homer"
+		instructors +=["Lisa"]
+	if i == "Lisa"
+		instructors += ["Bart"]
+print (instructors)
